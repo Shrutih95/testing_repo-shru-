@@ -1,2 +1,2 @@
-# testing_repo-shru-
-used for testing
+# test_cases
+selenium test cases
